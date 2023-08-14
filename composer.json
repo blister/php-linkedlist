@@ -1,6 +1,6 @@
 {
 	"name": "blister/php-linkedlist",
-	"description": "A speedy LinkeList and DoubleLinkedList data structure implementation.",
+	"description": "A speedy DoubleLinkedList data structure implementation.",
 	"autoload": {
 		"psr-4": {
 			"Blister\\LinkedList\\": "src/"
