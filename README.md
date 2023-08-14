@@ -1,5 +1,6 @@
 # php-linkedlist
 ![Build Status](https://github.com/blister/php-linkedlist/actions/workflows/php.yml/badge.svg)
+
 A speedy LinkedList and DoubleLinkedList data structure implementation in PHP.
 
 ## Installation
