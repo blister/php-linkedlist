@@ -1,0 +1,32 @@
+{
+	"name": "blister/php-linkedlist",
+	"description": "A speedy LinkeList and DoubleLinkedList data structure implementation.",
+	"autoload": {
+		"psr-4": {
+			"Blister\\LinkedList\\": "src/"
+		}
+	},
+	"autoload-dev": {
+		"psr-4": {
+			"Blister\\LinkedList\\Tests\\": "tests/"
+		}
+	},
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Eric Ryan Harrison"
+		}
+	],
+	"require": {
+		"php": ">=7.0"
+	},
+	"scripts": {
+		"test": [
+			"vendor/bin/phpunit -v tests/"
+		]
+	},
+	"minimum-stability": "dev",
+	"require-dev": {
+		"phpunit/phpunit": "^9"
+	}
+}
