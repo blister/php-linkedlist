@@ -43,12 +43,12 @@ composer run-script test
 ```
 
 ## Future
-- [] `toArray():array`
-- [] `findAll(mixed $needle):array`
-- [] `fill(int $count, mixed $value):bool`
-- [] `findFromTail(mixed $needle):mixed`
-- [] `indexFromTail(mixed $needle):int`
-- [] `print():void` 
+- [ ] `toArray():array`
+- [ ] `findAll(mixed $needle):array`
+- [ ] `fill(int $count, mixed $value):bool`
+- [ ] `findFromTail(mixed $needle):mixed`
+- [ ] `indexFromTail(mixed $needle):int`
+- [ ] `print():void` 
 
 ## Author
 Eric Ryan Harrison, [@blister](https://twitter.com/blister)
